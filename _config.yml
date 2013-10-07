@@ -4,10 +4,10 @@
 
 url: http://oludiro.github.io
 title: Oki Learn to &lt;code&gt;
-subtitle: Learn, code and Lean some more
+subtitle: LEARN, CODE and then LEARN some more
 author: Oki Ludiro
 simple_search: http://google.com/search
-description:
+description: The duty of developer is keep on learning to keep up with the technology. Make the learning part fun, code your heart out and then learn some more.
 
 # Default date format is "ordinal" (resulting in "July 22nd 2007")
 # You can customize the format as defined in
@@ -16,7 +16,7 @@ description:
 date_format: "ordinal"
 
 # RSS / Email (optional) subscription links (change if using something like Feedburner)
-subscribe_rss: /atom.xml
+subscribe_rss:
 subscribe_email:
 # RSS feeds can list your email address if you like
 email:
@@ -78,8 +78,8 @@ google_plus_one_size: medium
 
 # Google Plus Profile
 # Hidden: No visible button, just add author information to search results
-googleplus_user: oludiro
-googleplus_hidden: false
+googleplus_user: 
+googleplus_hidden: 
 
 # Pinboard
 pinboard_user:
@@ -90,11 +90,17 @@ delicious_user:
 delicious_count: 3
 
 # Disqus Comments
-disqus_short_name:
-disqus_show_comment_count: false
+disqus_short_name: oludiro-github
+disqus_show_comment_count: true
 
 #Gravatar
-email_md5: oludiro@ludiro.com
+email: oludiro@ludiro.com
+
+#coderwall
+coderwall_user: oludiro
+
+#LinkedIn
+linkedin_user: oludiro
 
 # Google Analytics
 google_analytics_tracking_id: UA-579723-5
