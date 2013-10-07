@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
 
-  <title><![CDATA[Oki Learn to &lt;code&gt;]]></title>
-  <link href="http://oludiro.github.io/atom.xml" rel="self"/>
+  <title><![CDATA[Category: news | Oki Learn to &lt;code&gt;]]></title>
+  <link href="http://oludiro.github.io/blog/categories/news/atom.xml" rel="self"/>
   <link href="http://oludiro.github.io/"/>
   <updated>2013-10-06T23:10:41-07:00</updated>
   <id>http://oludiro.github.io/</id>
